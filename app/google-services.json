@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536108233592",
+    "project_id": "talk-easy-7b3a7",
+    "storage_bucket": "talk-easy-7b3a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536108233592:android:c0b736a6f6e9a44b30ce8d",
+        "android_client_info": {
+          "package_name": "com.example.talk_easy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7KLeYE0rShXGwPv5Y8XZe1hQBrEkItg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
